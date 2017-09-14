@@ -59,3 +59,14 @@ Platform support
 ----------------
 This will be run in a unix-ish environment (OS X).
 
+instructions
+---------------
+'Requirements'
+
+ruby 2.3
+
+Steps to run this code
+
+cd to directory
+bundle install
+ruby parse.rb
