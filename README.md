@@ -1,5 +1,9 @@
-requirements ruby 2.3
+'Requirements'
+
+ `ruby 2.3`
+
 Steps to run this code
-cd to directory
-bundle install
-ruby parse.rb
+
+1. cd to directory
+2. `bundle install`
+3. `ruby parse.rb`
