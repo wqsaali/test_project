@@ -1,3 +1,15 @@
+instructions
+---------------
+'Requirements'
+
+`ruby 2.3`
+
+Steps to run this code
+
+1. cd to directory
+2. `bundle install`
+3. `ruby parse.rb`
+
 Thank you for your interest in Weblinc.
 ===========================================
 
@@ -34,14 +46,4 @@ Platform support
 ----------------
 This will be run in a unix-ish environment (OS X).
 
-instructions
----------------
-'Requirements'
 
-ruby 2.3
-
-Steps to run this code
-
-cd to directory
-bundle install
-ruby parse.rb
