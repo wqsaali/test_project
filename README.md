@@ -11,7 +11,7 @@ We will be looking at the quality and professionalism of your work. In particula
 
 When you are finished
 ----------------------
-Please zip and send the entire directory including the .git folder.
+Please commit, zip, and send the entire directory including the .git folder.
 
 The Problem
 ===========
@@ -41,11 +41,9 @@ tie for 3rd place in the sample data).
 
 Guidelines
 -----------
-This should be implemented in a language with which you are familiar. We strongly
-prefer that you use ruby.
+This should be implemented in ruby.
 
-Your solution should be able to be run (and if applicable, built) from the
-command line. Please include appropriate scripts and instructions for
+Your solution should be able to be run from the command line. Please include appropriate scripts and instructions for
 running your application and your tests.
 
 If you use other libraries installed by rubygems/bundler it is not necessary to
@@ -61,6 +59,3 @@ Platform support
 ----------------
 This will be run in a unix-ish environment (OS X).
 
-Questions?
-----------
-Please email mplatt@weblinc.com if you have any questions.
