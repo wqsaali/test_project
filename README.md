@@ -9,6 +9,7 @@ Steps to run this code
 1. cd to directory
 2. `bundle install`
 3. `ruby parse.rb`
+4. `rspec spec` for testing
 
 Thank you for your interest in Weblinc.
 ===========================================
